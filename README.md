@@ -1,4 +1,4 @@
-# ProvaFresaV3
+# ProvaFresaV2
 Simulazione cicli di lavoro in ambiente di produzione Fusion360
 
 Grezzo 60x60x50
