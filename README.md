@@ -13,6 +13,7 @@ Spianatatura:
 <img width="475" alt="Immagine 2023-07-19 115258" src="https://github.com/VincenzoHDR/ProvaFresa/assets/124595235/87a694a0-d1de-4031-9ac2-cbc96a2582f5">
 
 Sgrossatura (Profilo):
+
 <img width="350" alt="Immagine 2023-07-19 115435" src="https://github.com/VincenzoHDR/ProvaFresa/assets/124595235/98aa8052-882b-4bd3-bf4f-c2d450fe5836">
 
 Sgrossatura (Tasche Esterne):
